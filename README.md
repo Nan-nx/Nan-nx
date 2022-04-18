@@ -1,4 +1,4 @@
-#### Hi, Welcome to Nan-nx ！
+#### Welcome to Nan-nx ！
 * The all project are based on Quan_X and Book, corresponding to "En" and "Book", respectively.
 
 <a href="https://github.com/Nan-nx/Book"><img src='https://img.shields.io/badge/Book-v3.0-purple'/></a>
