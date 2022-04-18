@@ -6,4 +6,4 @@
 [![GitHub release](https://img.shields.io/github/release/Nan-nx/En.svg)](https://github.com/Nan-nx/En/releases)
 [![GitHub license](https://img.shields.io/github/license/Nan-nx/En.svg)](https://github.com/Nan-nx/En/blob/master/LICENSE) 
 <a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/Quan_X-v2.0-blue'/></a> 
-<a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/by-Nan--nx-green'/></a>
+<a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/contact-Nan--nx-green'/></a>
