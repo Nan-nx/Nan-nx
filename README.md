@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/Nan-nx/En/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/En/actions)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Nan-nx/En.svg)](https://github.com/Nan-nx/En/tags)
-[![GitHub release](https://img.shields.io/github/release/Nan-nx/En.svg&color=orange)](https://github.com/Nan-nx/En/releases)
+[![GitHub release](https://img.shields.io/github/release/Nan-nx/En.svg)](https://github.com/Nan-nx/En/releases)
 ![](https://visitor-badge.glitch.me/badge?page_id=Nan-nx)
 [![Commit](https://img.shields.io/github/commit-activity/m/Nan-nx/En?label=Commits&color=orange)](https://github.com/Nan-nx/En/commits/master)
 <a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/Book-v3.0-green'/></a>
