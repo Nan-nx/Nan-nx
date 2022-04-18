@@ -1,4 +1,6 @@
 ### Hi, Welcome to Nan-nx ！
+#### The all project are based on Quan_X and Book, corresponding to <a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/Quan_X-v2.0-red'/></a> and <a href="https://github.com/Nan-nx/Book"><img src='https://img.shields.io/badge/Book-v3.0-purple'/></a> , respectively 
+.
 
 [![Build Status](https://github.com/Nan-nx/En/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/En/actions)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Nan-nx/En.svg)](https://github.com/Nan-nx/En/tags)
