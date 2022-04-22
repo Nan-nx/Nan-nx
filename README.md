@@ -5,5 +5,5 @@
 <a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/Quan_X-v2.0-red'/></a>
 <a href="https://www.v2rayfree.eu.org/post/free-v2ray"><img src='https://img.shields.io/badge/Proxy-v2.0-green'/></a>
 <a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/By-Nan--nx-blue'/></a>
-s
+
 #### Welcome to Nan-nx ！ All projects are based on Quan_X and Book, corresponding to "En" and "Book", respectively.
