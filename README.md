@@ -5,6 +5,6 @@
 <a href="https://www.v2rayfree.eu.org/post/free-v2ray"><img src='https://img.shields.io/badge/Proxy-v2.0-green'/></a>
 <a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/By-Nan--nx-blue'/></a>
 
-&nbsp;&nbsp; [![Nan-nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan-nx&show_icons=true&count_private=true&theme=vue)](https://github.com/Nan-nx)
+[![Nan-nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan-nx&show_icons=true&count_private=true&theme=vue)](https://github.com/Nan-nx)
 
-#### &nbsp;&nbsp; All projects are based on Quan_X and Book, corresponding to "En" and "Book", respectively. <img src="Hi.gif" width="25px">
+####  All projects are based on Quan_X and Book, corresponding to "En" and "Book", respectively. <img src="Hi.gif" width="25px">
