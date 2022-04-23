@@ -7,6 +7,5 @@
 <a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/By-Nan--nx-blue'/></a>
 
 * All projects are based on Quan_X and Book, corresponding to "En" and "Book", respectively.
-
-[![Nan-nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan-nx&show_icons=true&count_private=true&theme=vue)](https://github.com/Nan-nx/En)
+* [![Nan-nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan-nx&show_icons=true&count_private=true&theme=vue)](https://github.com/Nan-nx/En)
 
