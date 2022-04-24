@@ -7,4 +7,4 @@
 
 [![Nan-nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan-nx&show_icons=true&count_private=true&theme=vue)](https://github.com/Nan-nx)
 
-####  All projects are based on Quan_X and Book, corresponding to "En" and "Book", respectively. <img src="Hi.gif" width="25px">
+####  All projects are based on Quan_X and Book, corresponding to "En" and "Book", respectively. <img src="Hi.gif" width="20px">
