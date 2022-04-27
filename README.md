@@ -1,8 +1,8 @@
 ## <img src="hello.gif" width="65px">  
 
-[![Github contribution grid snake animation](https://raw.githubusercontent.com/Nan-nx/Nan-nx/output/github-contribution-grid-snake.svg)](https://github.com/Nan-nx/En)
-
 ####  All projects are based on Quan_X and Book, corresponding to "En" and "Book", respectively. <img src="Hi.gif" width="20px">
+
+[![Github contribution grid snake animation](https://raw.githubusercontent.com/Nan-nx/Nan-nx/output/github-contribution-grid-snake.svg)](https://github.com/Nan-nx/En)
 
 [![Build Status](https://github.com/Nan-nx/En/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/En)
 <a href="https://github.com/Nan-nx/Book"><img src='https://img.shields.io/badge/Book-v3.0-purple'/></a>
