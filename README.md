@@ -1,5 +1,4 @@
 
-## <a href="https://t.me/Nan_nx"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px"/></a>
 
 #####  All projects are based on Quantumult X, Scriptable and Book in ios device, corresponding to "En", "Scriptable" and "Book", respectively. 
 [![Github contribution grid snake animation](https://raw.githubusercontent.com/Nan-nx/Nan-nx/output/github-contribution-grid-snake.svg)](https://github.com/Nan-nx/En)
