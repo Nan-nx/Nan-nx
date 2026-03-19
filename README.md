@@ -1,6 +1,6 @@
 #####  Cherry Studio AI API：[点我](https://open.cherryin.ai/register?aff=5AtZ)
 
-#####  All projects are based on AI API, Loon, Quantumult X, Scriptable and Book in ios device, corresponding to "En", "Scriptable" and "Book", respectively. 
+#####  All projects are based on ios device, corresponding to "En", "Scriptable" and "Book", respectively. 
 
 
 
