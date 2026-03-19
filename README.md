@@ -1,7 +1,6 @@
 #####  Cherry Studio AI API：[点我](https://open.cherryin.ai/register?aff=5AtZ)
 
-#####  All projects are based on ios device, corresponding to "En", "Scriptable" and "Book", respectively. 
-
+#####  All projects are based on ios device.
 
 
 [![Nan-nx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan-nx&show_icons=true&count_private=true&theme=vue)](https://github.com/Nan-nx)
