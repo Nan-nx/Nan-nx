@@ -10,7 +10,6 @@
 [![GitHub License](https://img.shields.io/github/license/Nan-nx/En.svg)](https://github.com/Nan-nx/En/blob/master/LICENSE) 
 
 #####  Cherry Studio AI API：[点我](https://open.cherryin.ai/register?aff=5AtZ)
-
 #####  All projects are based on ios device.
 
 
