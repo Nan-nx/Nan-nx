@@ -1,6 +1,4 @@
-## <a href="https://t.me/Nan_nx"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px"/></a>
 
-#####  Cherry Studio AI API：[点我](https://open.cherryin.ai/register?aff=5AtZ)
 
 #####  All projects are based on ios device.
 
@@ -9,7 +7,9 @@
 
 [![Build Status](https://github.com/Nan-nx/En/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/En/actions)
 [![GitHub License](https://img.shields.io/github/license/Nan-nx/En.svg)](https://github.com/Nan-nx/En/blob/master/LICENSE) 
+## <a href="https://t.me/Nan_nx"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px"/></a>
 
+#####  Cherry Studio AI API：[点我](https://open.cherryin.ai/register?aff=5AtZ)
 
 
 
