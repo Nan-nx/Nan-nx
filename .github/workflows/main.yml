@@ -1,46 +1,37 @@
-name: CI
+name: 自动更新GitHub贪吃蛇动画
 
 on:
-  # run automatically every 6 hours
   schedule:
     - cron: "0 */6 * * *"
-
-  # allows to manually run the job at any time
   workflow_dispatch:
-
-  # run on every push on the master branch
   push:
     branches:
       - master
-# 全局强制JS Action使用Node24，消除Node20弃用提示
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  
+
 jobs:
-  generate:
+  snake-build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    # 授予写入仓库分支权限，避免推送失败
     permissions:
       contents: write
 
     steps:
-      # 拉取代码（可选，snk部分场景需要）
-      - name: Checkout repository
+      - name: 拉取仓库代码
         uses: actions/checkout@v4
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
+
+      - name: 生成贪吃蛇SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/snake-animation.svg
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: 推送图片到独立分支
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
+          target_branch: snake-res
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
