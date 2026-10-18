@@ -7,7 +7,7 @@
 <a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/En-v3.0-red'/></a>    [![Stars](https://img.shields.io/github/stars/Nan-nx/En)](https://github.com/Nan-nx/En/stargazers) 
 [![License](https://img.shields.io/badge/License-GPL3.0-orange)](https://github.com/Nan-nx/En/blob/master/LICENSE) 
 
-#####  Cherry Studio AI API：[点我](https://open.cherryin.ai/register?aff=5AtZ)
+#####  聚合AI API：[点我](https://v2-as.pincc.ai/register?aff=HKZ6F3QAA8GX)
 #####  All projects are based on ios device.
 
 
